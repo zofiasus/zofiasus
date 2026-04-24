@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I'm a computational neuroscience researcher interested in understanding how neural systems think, communicate, and generate behaviour — using modelling, data analysis, and machine learning as my main tools.
+I'm a computational neuroscience researcher interested in understanding how neural populations communicate with each other and generate behaviour — using modelling, data analysis, and machine learning.
 
-My long-term goal is simple (but probably impossible): figure out how the brain processes input and generates output in the form of actions and thoughts — one dataset and one model at a time.
+In my work I try to figure out:
+1) How our brain generates an internal model of the world?
+2) How are neurons, their organisation, and types such an effective and energy-efficient organ for computation?
 
 ---
 
@@ -10,15 +12,17 @@ My long-term goal is simple (but probably impossible): figure out how the brain 
 
 - Building computational models of neurons and neural circuits (CRG, Barcelona)
 - Analysing intracortical electrode recordings to study neural population dynamics (MRes Imperial College)
+- Aeon areana project for exploration of the sequential learning in freely moving mice over long periods of time (SWC at UCL)
   
 ---
 
 ## 🌱 What I've Been Learning
 
+- Animal tracking algorithms, SLEAP, DeepLabCut
 - local LLMs, LLM benchmarking
 - genomic data processing, quality control and analysis
 - exploring Pytorch a bit
   
 ---
 
-- 📫 How to reach me: z.sus24@imperial.ac.uk
+- 📫 How to reach me: z.sus@ucl.ac.uk
