@@ -12,7 +12,7 @@ In my work I try to figure out:
 
 - Building computational models of neurons and neural circuits (CRG, Barcelona)
 - Analysing intracortical electrode recordings to study neural population dynamics (MRes Imperial College)
-- Aeon areana project for exploration of the sequential learning in freely moving mice over long periods of time (SWC at UCL)
+- Neural data analysis to study long-term sequential learning in freely moving mice (SWC at UCL)
   
 ---
 
